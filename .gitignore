@@ -24,3 +24,5 @@
 /nbdist/
 /.nb-gradle/
 *.bak
+*.log
+*.log
